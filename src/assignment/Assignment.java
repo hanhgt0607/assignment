@@ -15,8 +15,13 @@ public class Assignment {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Say ___ Hello");
+        
+        
         System.out.println("njj");
+        
+        
+        System.out.println("Goodbye");
         
     }
     
